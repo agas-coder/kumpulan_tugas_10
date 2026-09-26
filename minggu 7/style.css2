@@ -1,0 +1,30 @@
+body{
+    background-color: rgb(5, 1, 54);
+}
+
+
+.title{
+    font-size: 67px;
+    color: rgb(255, 255, 255);
+    margin-top:-16px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#sub-title{
+    font-size: 16px;
+    color: rgba(0, 158, 137, 0.466);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+
+button{
+    padding:  8px;
+    border-radius: 8%;
+    border-color: blueviolet;
+    background-color: blueviolet;
+    color: aliceblue;
+       
+}
+#amba{
+    color: aliceblue;
+    margin-top: -40px;
+}
